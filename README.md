@@ -8,13 +8,15 @@ Windows / macOS 桌面应用。当前为测试版（beta）。
 
 ## 一、下载
 
-到 [**Releases**](https://github.com/longquanbaofa/electron-manbanpai/releases) 下载最新版，选对应你系统的文件：
+点下面对应你系统的链接，**直接下载最新版**（不用进 Releases 页翻）：
 
-| 你的电脑 | 下载哪个 |
+| 你的电脑 | 下载 |
 | --- | --- |
-| Windows 10 / 11 | `MeiChao-ManBanPai-Setup-<版本>.exe` |
-| Mac（M1/M2/M3/M4 芯片） | `MeiChao-ManBanPai-<版本>-arm64.dmg` |
+| **Windows 10 / 11**（64 位） | [⬇️ 下载 MeiChao-ManBanPai-Setup.exe](https://github.com/longquanbaofa/electron-manbanpai/releases/latest/download/MeiChao-ManBanPai-Setup.exe) |
+| **Mac**（M1/M2/M3/M4 芯片） | [⬇️ 下载 MeiChao-ManBanPai-arm64.dmg](https://github.com/longquanbaofa/electron-manbanpai/releases/latest/download/MeiChao-ManBanPai-arm64.dmg) |
 
+> 这两个链接**永远指向最新版**。想看所有历史版本和更新说明，去 [Releases 页](https://github.com/longquanbaofa/electron-manbanpai/releases)。
+>
 > Windows 装法：双击 exe 一路下一步。Mac 装法：打开 dmg，把里面的应用拖进「应用程序」。
 
 ---
