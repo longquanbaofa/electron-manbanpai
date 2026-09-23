@@ -11,8 +11,7 @@
 | 系统 | 文件 |
 | --- | --- |
 | Windows 10 / 11（64 位） | `MeiChao-ManBanPai-Setup-<版本>.exe` |
-| macOS · Apple 芯片（M 系列） | `MeiChao-ManBanPai-<版本>-arm64.dmg` |
-| macOS · Intel 芯片 | `MeiChao-ManBanPai-<版本>-x64.dmg` |
+| macOS（Apple 芯片 / M 系列） | `MeiChao-ManBanPai-<版本>-arm64.dmg` |
 
 ## 装完第一次打开
 
